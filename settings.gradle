@@ -1,0 +1,4 @@
+rootProject.name = 'PA02'
+include 'src'
+include 'java'
+
